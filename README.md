@@ -1,7 +1,7 @@
 # springboot-ideaforplugin
 this is my plugin
 function:
- this auto code for mysql/porgresssql and you springboot project for action
+ this auto code for mysql/postgres and you springboot project for action
  connect swagger-ui contains crud one munites finish.
  use:
  No.1
