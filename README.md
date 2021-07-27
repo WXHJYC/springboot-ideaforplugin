@@ -1,6 +1,5 @@
 # springboot-ideaforplugin
 file upload is springboot_demo_forchaogeml.cn.rar this is project demo with chaogemlplugin.
-thanke
 this is my plugin
 function:
  this auto code for mysql/postgres and you springboot project for action
